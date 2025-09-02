@@ -233,6 +233,6 @@ Understanding cyber warfare is crucial in today's interconnected world, as it en
 <h2>Games</h2>
 <a href="https://create.kahoot.it/share/quiz-lesson-12-1-introduction-to-cyber-warfare/dcd3ed50-d3a5-409a-be48-569e7c0189a2"> Kahoot: Introduction to Cyber Warfare </a>
 
-<h2>Additonal Resources</h2>
+<h2>Additional Resources</h2>
 
 <a href="https://docs.google.com/document/d/1UIhlN-SFnT05R1R3bupZM8Qwh68Izrw-/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true"> Hacktivism </a>
